@@ -1,0 +1,11 @@
+[33mcommit 78e89cff10e4d8a0ad7fbdc2d81d6b340f10df18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: dani kach <danielkach.ko@gmail.com>
+Date:   Mon May 6 13:40:55 2024 +0300
+
+    added 02-basics
+
+[33mcommit 88e55d2a883c202909491679dd4dc387bd56d881[m
+Author: dani kach <danielkach.ko@gmail.com>
+Date:   Mon May 6 13:26:01 2024 +0300
+
+    initial commit & added 01-config and hello files
